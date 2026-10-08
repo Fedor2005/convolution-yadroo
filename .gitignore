@@ -3,6 +3,7 @@
 *.obj
 *.exe
 *.out
+build/
 prog
 solution
 
