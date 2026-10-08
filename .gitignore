@@ -1,2 +1,20 @@
-.zip
-main
+# Бинарники и объектные файлы
+*.o
+*.obj
+*.exe
+*.out
+build/
+prog
+solution
+
+# Сгенерированные тесты
+my-tests/
+load-tests/
+tests/
+*.in
+*.out
+
+# Временные файлы
+*.tmp
+*~
+.DS_Store
